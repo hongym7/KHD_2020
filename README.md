@@ -1,2 +1,6 @@
-# KHD_2020
-KHD_2020_mammo_pathology
+# KHD_2020 Competetion
+   
+### 적용기술
+- Augmentation
+- learning rate scheduler
+- focal loss
